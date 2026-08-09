@@ -1,0 +1,17 @@
+{
+  "background_color": "#000000",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "SPORTX",
+  "orientation": "any",
+  "scope": "/sportx/",
+  "short_name": "SPORTX",
+  "start_url": "https://sivalesh.github.io/Sportx/",
+  "theme_color": "#000000",
+  "id": "https://sivalesh.github.io/Sportx/",
+  "description": "Smart sports manager",
+  "lang": "en",
+  "categories": [
+    "sports"
+  ]
+}
